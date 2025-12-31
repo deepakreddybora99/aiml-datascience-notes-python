@@ -46,27 +46,27 @@ By completing this syllabus and notes, you will be able to:
 - SELECT, WHERE, ORDER BY  
 - GROUP BY & HAVING  
 - Joins (INNER, LEFT, RIGHT)  
-- Subqueries & Views  
+- Subqueries & Views 
 
-### 4️⃣ Data Cleaning & Preparation
-- Handling Missing Values  
-- Removing Duplicates  
-- Data Transformation  
-- Outlier Detection  
+### 4️⃣ Data Visualization
+- Principles of Data Visualization  
+- Matplotlib  
+- Seaborn  
+- Charts: Bar, Line, Pie, Histogram  
+- Dashboard Basics 
 
 ### 5️⃣ Statistics for Data Analysis
 - Mean, Median, Mode  
 - Variance & Standard Deviation  
 - Probability Basics  
 - Correlation & Regression  
-- Hypothesis Testing (Basics)  
+- Hypothesis Testing  
 
-### 6️⃣ Data Visualization
-- Principles of Data Visualization  
-- Matplotlib  
-- Seaborn  
-- Charts: Bar, Line, Pie, Histogram  
-- Dashboard Basics  
+### 6️⃣ Data Cleaning & Preparation
+- Handling Missing Values  
+- Removing Duplicates  
+- Data Transformation  
+- Outlier Detection  
 
 ### 7️⃣ Exploratory Data Analysis (EDA)
 - Descriptive Analysis  
