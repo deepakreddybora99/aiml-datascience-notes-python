@@ -62,17 +62,17 @@ By completing this syllabus and notes, you will be able to:
 - Correlation & Regression  
 - Hypothesis Testing  
 
-### 6️⃣ Data Cleaning & Preparation
+### 6️⃣ Exploratory Data Analysis (EDA)
+- Descriptive Analysis  
+- Pattern Detection  
+- Trend Analysis  
+- Data Summarization 
+
+### 7️⃣ Data Cleaning & Preparation
 - Handling Missing Values  
 - Removing Duplicates  
 - Data Transformation  
 - Outlier Detection  
-
-### 7️⃣ Exploratory Data Analysis (EDA)
-- Descriptive Analysis  
-- Pattern Detection  
-- Trend Analysis  
-- Data Summarization  
 
 ### 8️⃣ Case Studies & Projects
 - Business Case Studies  
