@@ -1,9 +1,3 @@
-Here is a **single, clean, merged `README.md`** that combines **repository overview + complete Data Science & Generative AI roadmap** into one well-structured document suitable for GitHub.
-
-You can copy-paste this directly as your `README.md`.
-
----
-
 # 🧠 AI / ML / Data Science Notes & Generative AI Roadmap (Python)
 
 ## 📌 Repository Overview
