@@ -175,7 +175,7 @@ The ML life cycle defines the structured process of building reliable ML systems
 
 ## Machine Learning Life Cycle Flow
 
-```
+```rust
 Problem Definition
 ↓
 Data Collection
